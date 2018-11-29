@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bfc69e7d08bdc3f4f8b585668e7a8e82
+timeCreated: 1543464937
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: (FREEWIND)
+  fontNames:
+  - (FREEWIND)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
