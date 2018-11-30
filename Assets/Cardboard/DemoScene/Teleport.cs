@@ -38,8 +38,8 @@ public class Teleport : MonoBehaviour {
 
   public void TeleportRandomly() {
     Vector3 direction = Random.onUnitSphere;
-    direction.y = Mathf.Clamp(direction.y, 0.5f, 1f);
-    float distance = 2 * Random.value + 1.5f;
+    direction.y = Mathf.Clamp(direction.y, 0f, 0.5f);
+    float distance = 10 * Random.value + 1.5f;
     transform.localPosition = direction * distance;
   }
 }

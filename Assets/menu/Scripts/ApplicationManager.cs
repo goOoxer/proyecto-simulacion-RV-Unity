@@ -5,7 +5,7 @@ public class ApplicationManager : MonoBehaviour {
 	
 	public void Open ()
 	{
-		Application.LoadLevel ("level");
+		Application.LoadLevel ("DemoScene");
 	}
 	public void Quit () 
 	{
