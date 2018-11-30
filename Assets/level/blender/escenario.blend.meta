@@ -109,6 +109,18 @@ ModelImporter:
     100202: Cylinder_105
     100204: Cylinder_106
     100206: Cylinder_107
+    100208: Cylinder_108
+    100210: Cylinder_109
+    100212: Cylinder_110
+    100214: Cylinder_111
+    100216: Cylinder_112
+    100218: Cylinder_113
+    100220: Cylinder_114
+    100222: Cylinder_115
+    100224: Cylinder_116
+    100226: Cylinder_117
+    100228: Icosphere_002
+    100230: Icosphere_003
     400000: Cylinder
     400002: Cylinder_001
     400004: Cylinder_002
@@ -213,6 +225,18 @@ ModelImporter:
     400202: Cylinder_105
     400204: Cylinder_106
     400206: Cylinder_107
+    400208: Cylinder_108
+    400210: Cylinder_109
+    400212: Cylinder_110
+    400214: Cylinder_111
+    400216: Cylinder_112
+    400218: Cylinder_113
+    400220: Cylinder_114
+    400222: Cylinder_115
+    400224: Cylinder_116
+    400226: Cylinder_117
+    400228: Icosphere_002
+    400230: Icosphere_003
     2300000: Cylinder
     2300002: Cylinder_001
     2300004: Cylinder_002
@@ -316,6 +340,18 @@ ModelImporter:
     2300200: Cylinder_105
     2300202: Cylinder_106
     2300204: Cylinder_107
+    2300206: Cylinder_108
+    2300208: Cylinder_109
+    2300210: Cylinder_110
+    2300212: Cylinder_111
+    2300214: Cylinder_112
+    2300216: Cylinder_113
+    2300218: Cylinder_114
+    2300220: Cylinder_115
+    2300222: Cylinder_116
+    2300224: Cylinder_117
+    2300226: Icosphere_002
+    2300228: Icosphere_003
     3300000: Cylinder
     3300002: Cylinder_001
     3300004: Cylinder_002
@@ -419,6 +455,18 @@ ModelImporter:
     3300200: Cylinder_105
     3300202: Cylinder_106
     3300204: Cylinder_107
+    3300206: Cylinder_108
+    3300208: Cylinder_109
+    3300210: Cylinder_110
+    3300212: Cylinder_111
+    3300214: Cylinder_112
+    3300216: Cylinder_113
+    3300218: Cylinder_114
+    3300220: Cylinder_115
+    3300222: Cylinder_116
+    3300224: Cylinder_117
+    3300226: Icosphere_002
+    3300228: Icosphere_003
     4300000: Plane_001
     4300002: Cylinder_009
     4300004: Cylinder_008
@@ -522,6 +570,132 @@ ModelImporter:
     4300200: Cylinder_104
     4300202: Cylinder_103
     4300204: Cylinder_102
+    4300206: Cylinder_109
+    4300208: Cylinder_108
+    4300210: Cylinder_111
+    4300212: Cylinder_110
+    4300214: Cylinder_113
+    4300216: Cylinder_112
+    4300218: Cylinder_115
+    4300220: Cylinder_114
+    4300222: Cylinder_117
+    4300224: Cylinder_116
+    4300226: Icosphere_002
+    4300228: Icosphere_003
+    6400000: Cylinder
+    6400002: Cylinder_001
+    6400004: Cylinder_002
+    6400006: Cylinder_003
+    6400008: Cylinder_004
+    6400010: Cylinder_005
+    6400012: Cylinder_006
+    6400014: Cylinder_007
+    6400016: Cylinder_008
+    6400018: Cylinder_009
+    6400020: Cylinder_010
+    6400022: Cylinder_011
+    6400024: Cylinder_012
+    6400026: Cylinder_013
+    6400028: Cylinder_014
+    6400030: Cylinder_015
+    6400032: Cylinder_016
+    6400034: Cylinder_017
+    6400036: Cylinder_018
+    6400038: Cylinder_019
+    6400040: Cylinder_020
+    6400042: Cylinder_021
+    6400044: Cylinder_022
+    6400046: Cylinder_023
+    6400048: Cylinder_024
+    6400050: Cylinder_025
+    6400052: Cylinder_026
+    6400054: Cylinder_027
+    6400056: Cylinder_028
+    6400058: Cylinder_029
+    6400060: Cylinder_030
+    6400062: Cylinder_031
+    6400064: Cylinder_032
+    6400066: Cylinder_033
+    6400068: Cylinder_034
+    6400070: Cylinder_035
+    6400072: Cylinder_036
+    6400074: Cylinder_037
+    6400076: Cylinder_038
+    6400078: Cylinder_039
+    6400080: Cylinder_040
+    6400082: Cylinder_041
+    6400084: Cylinder_042
+    6400086: Cylinder_043
+    6400088: Cylinder_044
+    6400090: Cylinder_045
+    6400092: Cylinder_046
+    6400094: Cylinder_047
+    6400096: Cylinder_048
+    6400098: Cylinder_049
+    6400100: Cylinder_050
+    6400102: Cylinder_051
+    6400104: Cylinder_052
+    6400106: Cylinder_053
+    6400108: Cylinder_054
+    6400110: Cylinder_055
+    6400112: Cylinder_056
+    6400114: Cylinder_057
+    6400116: Cylinder_058
+    6400118: Cylinder_059
+    6400120: Cylinder_060
+    6400122: Cylinder_061
+    6400124: Cylinder_062
+    6400126: Cylinder_063
+    6400128: Cylinder_064
+    6400130: Cylinder_065
+    6400132: Cylinder_066
+    6400134: Cylinder_067
+    6400136: Cylinder_068
+    6400138: Cylinder_069
+    6400140: Cylinder_070
+    6400142: Cylinder_071
+    6400144: Cylinder_072
+    6400146: Cylinder_073
+    6400148: Cylinder_074
+    6400150: Cylinder_075
+    6400152: Cylinder_076
+    6400154: Cylinder_077
+    6400156: Cylinder_078
+    6400158: Cylinder_079
+    6400160: Cylinder_086
+    6400162: Cylinder_087
+    6400164: Cylinder_091
+    6400166: Cylinder_092
+    6400168: Cylinder_093
+    6400170: Cylinder_094
+    6400172: Cylinder_095
+    6400174: Cylinder_096
+    6400176: Cylinder_097
+    6400178: Cylinder_098
+    6400180: Cylinder_099
+    6400182: Cylinder_100
+    6400184: Cylinder_101
+    6400186: Cylinder_102
+    6400188: Cylinder_103
+    6400190: Cylinder_104
+    6400192: Cylinder_105
+    6400194: Cylinder_106
+    6400196: Cylinder_107
+    6400198: Icosphere
+    6400200: Icosphere_001
+    6400202: Plane
+    6400204: Cylinder_108
+    6400206: Cylinder_109
+    6400208: Cylinder_110
+    6400210: Cylinder_111
+    6400212: Cylinder_112
+    6400214: Cylinder_113
+    6400216: Cylinder_114
+    6400218: Cylinder_115
+    6400220: Cylinder_116
+    6400222: Cylinder_117
+    6400224: Icosphere_002
+    6400226: Icosphere_003
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -552,7 +726,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
